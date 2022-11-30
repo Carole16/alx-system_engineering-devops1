@@ -1,1 +1,1 @@
-script that prints the absolute path of the current working directory
+display the content list of your current directory
