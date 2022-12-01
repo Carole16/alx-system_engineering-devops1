@@ -1,4 +1,2 @@
-id -un
-su betty
-su betty
+#!/bin/bash
 su betty
